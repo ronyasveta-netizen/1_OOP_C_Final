@@ -89,7 +89,7 @@ void AddProductMenu(Supermarket& supermarket)
         cout << R"( 
 ==================== ADD PRODUCT MENU ====================
 
-                [0] - BACK
+                [0] - EXIT MENU ADD_Product
 
                 CHOOSE PRODUCT TYPE
 
