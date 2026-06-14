@@ -169,7 +169,7 @@ Enter your choice: )";
             cout << R"( 
             Choose INDUSTRIAL category:
 
-        [1] - NONE_CATEGORY
+        [0] - NONE_CATEGORY
         [1] - ELECTRONICS
         [2] - CHEMICALS
         [3] - TEXTILE
