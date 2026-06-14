@@ -129,11 +129,12 @@ Enter your choice: )";
             cout << R"( 
         Choose FOOD category:
 
-        [0] - DAIRY
-        [1] - BAKERY
-        [2] - MEAT
-        [3] - CONFECTIONERY
-        [4] - FRUITS & VEGGIES
+        [0] - NONE_CATEGORY_FOOD
+        [1] - DAIRY
+        [2] - BAKERY
+        [3] - MEAT
+        [4] - CONFECTIONERY
+        [5] - FRUITS & VEGGIES
 
  Enter category number: )";
             cin >> category;
@@ -168,11 +169,13 @@ Enter your choice: )";
             cout << R"( 
             Choose INDUSTRIAL category:
 
-        [0] - HOME
+        [1] - NONE_CATEGORY
         [1] - ELECTRONICS
         [2] - CHEMICALS
-        [3] - TOOLS
-        [4] - OTHER
+        [3] - TEXTILE
+        [4] - TOYS
+        [5] - FRUITS_VEGGIES
+
 
 Enter category number: )";
             cin >> category;
